@@ -1,0 +1,17 @@
+I/O of SquareRootCalculator
+
+Enter a number: 45
+Square root: 6.708203932499369
+
+Enter a number: -36
+Error: Cannot calculate the square root of a negative number.
+
+I/O of ATMwithdrawl
+
+Enter PIN: 1234
+Withdraw Amount: 2000
+Withdrawal successful. Remaining Balance: 1000.0
+Current Balance: 1000.0
+
+
+
